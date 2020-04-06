@@ -8,7 +8,9 @@
         "jest": true
     },
     "globals": {
-        "document": true
+        "document": true,
+        "fetch": true,
+        "alert": true
     },
     "rules": {
         "import/no-extraneous-dependencies": 0,
